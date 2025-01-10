@@ -1,0 +1,3 @@
+html body { /* Selector más específico */
+    background-color: white !important; 
+}

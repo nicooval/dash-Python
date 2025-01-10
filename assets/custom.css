@@ -1,0 +1,11 @@
+html body { /* Selector más específico */
+    background-color: white !important; 
+}
+
+body { /* Selector más específico */
+    background-color: white !important; 
+}
+
+.bg-light{ /* Selector más específico */
+    background-color: white !important; 
+}

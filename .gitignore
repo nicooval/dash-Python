@@ -1,0 +1,11 @@
+# Ignorar carpetas específicas
+/inputs/
+/outputs/
+
+
+# Ignorar archivos específicos
+db_main_bhp.py
+
+# Archivos de sistema
+.DS_Store
+thumbs.db
